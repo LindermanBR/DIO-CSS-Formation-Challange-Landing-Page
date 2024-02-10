@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-(Link do deploy)
+[Deploy do Site](https://lindermanbr.github.io/DIO-CSS-Formation-Challange-Landing-Page/)
 
 Projeto desenvolvido para demonstrar as habilidades adquiridas na formação de CSS da DIO.
 
