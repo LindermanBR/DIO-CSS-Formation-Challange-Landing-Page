@@ -14,7 +14,7 @@ body {
 .banner {
   display: flex;
   justify-content: center;
-  background-image: url("/assets/images/banner.png"),
+  background-image: url("\assets\images\banner.png"),
     linear-gradient(
       rgba(0, 0, 0, 0.6),
       rgba(49, 169, 221, 0.08),
