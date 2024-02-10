@@ -14,7 +14,7 @@ body {
 .banner {
   display: flex;
   justify-content: center;
-  background-image: url("\assets\images\banner.png"),
+  background-image: url("../images/banner.png"),
     linear-gradient(
       rgba(0, 0, 0, 0.6),
       rgba(49, 169, 221, 0.08),
@@ -103,7 +103,7 @@ main {
   display: flex;
   justify-content: left;
   align-items: center;
-  background-image: url("/assets/images/woman-code.png");
+  background-image: url("../images/woman-code.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
